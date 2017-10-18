@@ -7,5 +7,5 @@ To run the code, you should download the dataset and then convert it to tfrecord
 [input, C-map, infer, gt]</br>
 ![image](https://user-images.githubusercontent.com/19285890/31707573-af02e79c-b427-11e7-8df2-8b0a4d8dfcd6.png)</br>
 [input, gt, infer, scale-wise C-maps]</br>
-
+  
 
